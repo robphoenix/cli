@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/exercism/cli",
+	"ImportPath": "github.com/robphoenix/cli",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v63",
 	"Packages": [
